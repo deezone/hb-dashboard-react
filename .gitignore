@@ -1,0 +1,9 @@
+# React
+dist
+
+# Node packages
+node_modules
+
+# IDE (WebStorm)
+.idea
+
