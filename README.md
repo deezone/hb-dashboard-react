@@ -40,12 +40,13 @@ should be used for development only.
 
 ### References
 
-##### Setup Basic Reactjs Site
+##### Setup Basic React.js Site
 - **[learn concepts step by step](https://reactjs.org/docs/hello-world.html)**
 - **[Tutorial: Intro to React - how to build an interactive tic-tac-toe game with React.](https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial)**
 - **[Creating a React App… From Scratch.](https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658)**
 - **[How to Create a React app from scratch using Webpack 4](https://medium.freecodecamp.org/part-1-react-app-from-scratch-using-webpack-4-562b1d231e75)**
   - **[pinglinh/tutorial-the-guardian-search-app](https://github.com/pinglinh/tutorial-the-guardian-search-app/tree/functional-app)**
+- **[KleoPetroff/react-webpack-boilerplate](https://github.com/KleoPetroff/react-webpack-boilerplate)**
 - **[Setting up a Node.js Express server for React](https://medium.com/@maison.moa/setting-up-an-express-backend-server-for-create-react-app-bc7620b20a61)**
 
 ##### Test Coverage
